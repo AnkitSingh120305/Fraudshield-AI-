@@ -1,0 +1,6 @@
+{
+  "name": "FraudShield AI",
+  "description": "Conversation-aware live call scam detection and proactive fraud prevention assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
